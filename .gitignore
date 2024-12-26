@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # Idea
-.idea
+.idea/
